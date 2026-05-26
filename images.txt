@@ -1,3 +1,4 @@
 nginx
 #支持私库
 nginx:1.26.2-alpine
+registry.cn-hangzhou.aliyuncs.com/zhuyijun/oracle:19c
